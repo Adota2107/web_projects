@@ -1,0 +1,44 @@
+.block-service{
+    background-color: antiquewhite;
+    position: relative;
+}
+.block-service img{
+    width: 100%;
+}
+.service-detail{
+    position: absolute;
+    background-color: rgba(128, 128, 128, 0.2);
+    color: white;
+    left: 0;
+    bottom: 0;
+    margin-bottom: 5px;
+}
+.block-combo img{
+    width: 360px;
+    height: 288px;
+}
+.block-combo{
+    background-color: rgb(220, 220, 220);
+}
+.second{
+    margin-bottom: 0;
+}
+.block-combo p:last-child{
+    padding-bottom: 5px;
+}
+.special{
+    background-color: rgb(220, 220, 220);
+}
+.footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.footer h5{
+    margin-bottom: 0;
+    padding-bottom: 7px;
+}
+.footer p:first-child{
+    margin-top: 10px;
+    padding-top: 5px;
+}

@@ -1,0 +1,62 @@
+.logo img{
+    width: 70px;
+    height: 70px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.logo{
+    text-align: center;
+}
+.block{
+    background-color: rgb(202, 200, 200);
+    position: relative;
+}
+.block img{
+    width: 100%;
+    padding: 13px;
+}
+.ten-sp{
+    color: white;
+    background-color: gray;
+    opacity: 0.4;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+.ten-sp h5{
+    margin-bottom: 0;
+}
+.sale img{
+    width: 270px;
+    height: 270px;
+}
+.detail{
+    background-color: rgb(202, 202, 202)
+}
+.detail p:first-child{
+    border-bottom: 2px solid black;
+}
+.detail span:first-child{
+    font-weight: bold;
+    color: black;
+}
+.detail span{
+    color: red;
+}
+.col-md-6 iframe{
+    width: 555px;
+    height: 410px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.col-md-6 img{
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-top: 7px;
+    padding-bottom: 5px;
+}
